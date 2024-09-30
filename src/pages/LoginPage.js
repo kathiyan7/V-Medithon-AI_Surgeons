@@ -18,6 +18,7 @@ const LoginPage = () => {
 
   return (
     <div className="login-container">
+        <div className="login-container-1">
       <h2>Patient Health Login</h2>
       <input 
         type="email" 
@@ -37,6 +38,7 @@ const LoginPage = () => {
         Sign In
       </button>
       <a href="/forgot-password" className="forgot-link">Forgot Password?</a>
+    </div>
     </div>
   );
 
