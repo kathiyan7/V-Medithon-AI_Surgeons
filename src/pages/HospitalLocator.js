@@ -47,7 +47,8 @@ function HospitalLocator() {
                                 <div key={index} className="hospital-card">
                                     <h3>{hospital.name}</h3>
                                     <p className="distance">{hospital.distance}</p>
-                                    <a href="#" className="details-button btn btn-primary">View Details</a>
+                                    <a href="https://valid-link.com">Click here</a>
+                                    {/* <a href="#" className="details-button btn btn-primary">View Details</a> */}
                                 </div>
                             ))}
                         </div>

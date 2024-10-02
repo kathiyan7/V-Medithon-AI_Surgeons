@@ -6,7 +6,7 @@ function Profile() {
     <div className="profile-container">
       <h2>User Profile</h2>
       <div className="profile-details">
-        <img src="./pp.jpg" alt="Kathiyan's image" />
+        <img src="profile.jpg" alt="Kathiyan" />
         <div>
           <div className="detail-item">Name: Kathiyan T</div>
           <div className="detail-item">Age: 20</div>
